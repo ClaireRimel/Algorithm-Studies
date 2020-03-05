@@ -41,7 +41,7 @@ Une fonction récursive, c'est une fonction qui s'apelle elle même dans sa prop
 
 ![image](RecursionImage.jpg "RecursionImage") 
 
-Count Down: 
+Countdown: 
 
 La fonction countDown s'executera jusqu'à ce qu'elle remplisse la condition à savoir si la valeur est superieur à 1
 
